@@ -1,4 +1,4 @@
 def find_max_value(array)
-  array.sort!
-  array.last
+  count = 0
+  while 
 end
